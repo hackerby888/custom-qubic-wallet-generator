@@ -1,8 +1,10 @@
 
 # Custom QUBIC Wallet Generator
 A tool help you create custom wallet id starts with some words you want.
-
-
+Examples:
+`QPRO'SAJAIOASODISAOIDSAOPIDOPASIDOPSAIOPIDSOPIAOPIOPSF`
+or
+`FEIYU'SAJAIOASODISAOIDSAOPIDOPASIDOPSAIOPIDSOPIAOPIOPS`
 ## Requirements
 
 - Nodejs
